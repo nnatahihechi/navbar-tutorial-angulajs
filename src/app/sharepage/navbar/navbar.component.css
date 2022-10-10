@@ -1,0 +1,10 @@
+/* .active-link
+{
+  font-weight: bold;
+  color: red;
+} */
+.navbar-expand-lg .navbar-nav .nav-link.active-link {
+  font-weight: bold;
+    color:green;
+    
+}

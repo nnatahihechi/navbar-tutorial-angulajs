@@ -25,6 +25,6 @@ import { FooterComponent } from './sharepage/footer/footer.component';
     RouterModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent] 
 })
 export class AppModule { }
